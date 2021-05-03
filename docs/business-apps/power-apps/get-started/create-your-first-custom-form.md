@@ -20,13 +20,13 @@ Before starting, make sure your SharePoint site is set up with the [required lis
 
 1. In your SharePoint site, browse to the **Projects** list.
 
-1. To create and manage flows for a list or a library, from the command bar, on the list or library page, select **Power Apps**. More options appear:
+1. To create and manage flows for a list or a library, from the command bar, on the list or library page, select **Integrate** > **Power Apps**. More options appear:
 
    - Create an app
    - See all apps
    - Customize forms
 
-    ![Create a custom form from Projects list](../../../images/gs01-create-a-custom-form-command-bar.png)
+    ![Create a custom form from Projects list](../../../images/Lists_Integrate_PowerAutomate_CreateFlow.png)
 
 1. Select **Customize forms**. The Power Apps studio appears and loads your form onto the canvas. If the **Welcome to Power Apps Studio** dialog box opens, select **Skip**.
 
